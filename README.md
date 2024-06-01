@@ -20,19 +20,19 @@ To run this game, you need to have Python installed on your computer. You can do
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/ping-pong-twist.git
+    git clone https://github.com/Paras0101/Pingpong.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ping-pong-twist
+    cd pingpong
     ```
 
 3. Run the game:
 
     ```bash
-    python ping_pong_twist.py
+    python Ping/Pong.py
     ```
 
 ## How to Play
